@@ -1,5 +1,6 @@
 import ReactDOM from 'react-dom/client'
 import App from './app'
+import './app.css'
 
 const MIN = 50
 const MAX = 90

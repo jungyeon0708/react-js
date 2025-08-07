@@ -9,7 +9,7 @@ body {
   align-items: center;
   background: var(--background-color);
   color: var(--color);
-  font: 100 50vh/1 'Spoqa Han Sans Neo', sans-serif;
+  font: 1rem/1.5 'Spoqa Han Sans Neo', sans-serif;
 }
 
 .logo {
@@ -30,6 +30,9 @@ body {
 .output {
   user-select: none;
   cursor: inherit;
+  font-size: 30vh;
+  font-family: 'Spoqa Han Sans Neo';
+  font-weight: 100;
   
   &.is-animate {
     animation: wiggle 600ms infinite alternate;
