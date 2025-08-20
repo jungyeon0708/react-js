@@ -21,3 +21,7 @@ bun create jungyeon0708/react-js
 - ESLint, CSS 구조 등 개발에 필요한 설정 포함
 
 ---
+
+## 크레딧
+
+이 템플릿은 [@yamoo9](https://github.com/yamoo9)의 기본 구조를 바탕으로 제작되었습니다.
